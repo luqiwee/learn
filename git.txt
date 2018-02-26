@@ -1,2 +1,3 @@
 a new world
 git
+git has a mutable index called stage
